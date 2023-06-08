@@ -1,1 +1,1 @@
-# Dashboard-using-OpenCV
+# WhiteBoard-using-OpenCV
